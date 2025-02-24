@@ -10,7 +10,37 @@ I am a **digital architect**.
 I build the future with code.  
 I shape reality.
 
+<details>
+    <summary>🔓 Decrypt Message (ROT13)</summary>
+    Gur frperg vf va gur pvarzne
+    </details>
+
+
 ---
+
+
+
+
+
+
+![Hack Counter](https://count.getloli.com/get/@yourname?theme=moebooru)
+
+
+
+
+
+
+
+![Crypto](https://img.shields.io/badge/BTC-FF9900?style=for-the-badge&logo=bitcoin&logoColor=black)
+![OS](https://img.shields.io/badge/Arch_Linux-8A2BE2?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hacker](https://img.shields.io/badge/CTF_Hacker-DC143C?style=for-the-badge&logo=rootme&logoColor=white)
+![AI](https://img.shields.io/badge/ML_Evasion-00FF00?style=for-the-badge&logo=tensorflow&logoColor=black)
+![Privacy](https://img.shields.io/badge/NSA_Proof-000000?style=for-the-badge&logo=torproject)
+
+
+
+
+
 
 ## ⚙️ My Tech Stack
 
@@ -57,3 +87,28 @@ I shape reality.
 The code is **alive**.  
 Once you enter the abyss, there’s no going back.  
 Proceed with caution. 💀
+
+![Python](https://img.shields.io/badge/-PYTHON-8A2BE2?style=for-the-badge&logo=python&logoColor=black)
+   ![Hacking](https://img.shields.io/badge/-RED_TEAM-DC143C?style=for-the-badge&logo=protonmail&logoColor=white)
+
+   ![Breach Counter](https://img.breached.to/counter.php?label=Systems+Hacked&style=flat-square&color=DC143C)  
+![Days Since Last 0-Day](https://count.getloli.com/get/@Akkaiaj.zeroday?theme=rule34)  
+![Vulnerabilities Found](https://img.shields.io/endpoint?url=https://hits.dwyl.com/Akkaiaj/Akkaiaj.json&style=flat-square&color=8A2BE2)
+
+![Monero](https://img.shields.io/badge/XMR-${parseFloat(data.price).toFixed(2)}USD-FF6600?style=for-the-badge&logo=monero)
+
+
+![Zombies](https://img.shields.io/badge/Botnet_Nodes-1,337_Online-00FF00?style=flat-square)
+![Traffic](https://img.shields.io/badge/DDoS-42Gbps-DC143C?style=flat-square)
+
+
+
+![Interpol](https://img.shields.io/badge/Active_Warrants-3-DC143C?style=for-the-badge&logo=internet-explorer)
+
+![Comms](https://img.shields.io/badge/Comms_Encrypted-256bit_AES-8A2BE2?style=flat-square)
+
+
+![3D Stats](https://github-readme-stats.vercel.app/api?username=Akkaiaj&show_icons=true&theme=dark&bg_color=0d1117&title_color=8A2BE2&icon_color=DC143C)
+
+
+<img src="https://i.imgur.com/neon-divider.png" width="100%" alt="cyber-divider">
